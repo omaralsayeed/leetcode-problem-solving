@@ -1,0 +1,1 @@
+<h2>find-the-number-of-good-pairs-i Notes</h2><hr>[ Time taken: 2 m 10 s ]
